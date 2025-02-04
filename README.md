@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Leet Code Problems**
 
-- 👨‍💻 All of my projects are available at [mstw-portofolio.netlify.app](mstw-portofolio.netlify.app)
+- 👨‍💻 All of my projects are available at <a href="mstw-portofolio.netlify.app">mstw-portofolio.netlify.app<\a>
 
 - 💬 Ask me about **React,Angular,NodeJs,MongoDb,Jenkins**
 
